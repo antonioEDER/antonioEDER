@@ -109,7 +109,6 @@ Estudando continuamente Node, Vue, JS, GO, PostgreSQL.
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3S20AjbYUNP2r6rs7w4giTgcdFJBofkmOw&usqp=CAU"
       alt="vuejs"
       width="40"
-      height="40"
     />
   </a>
 
@@ -118,7 +117,6 @@ Estudando continuamente Node, Vue, JS, GO, PostgreSQL.
       src="https://cordova.apache.org/static/img/cordova-logo-newbrand.svg"
       alt="vuejs"
       width="40"
-      height="40"
     />
   </a>
 
@@ -127,7 +125,6 @@ Estudando continuamente Node, Vue, JS, GO, PostgreSQL.
       src="https://www.freecodecamp.org/news/content/images/2021/10/golang.png"
       alt="vuejs"
       width="40"
-      height="40"
     />
   </a>
 
