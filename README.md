@@ -7,7 +7,7 @@ Hi! My name is Eder Antonio and here I share my projects in development.
 
 ## Sou um desenvolvedor🔮 I'm a developer
 Dev Pleno Front-End na Eulabs. <br>
-plenary Front-End Developer at Eulabs.
+Plenary Front-End Developer at Eulabs.
 
 ## Formação🎓 Education
 Sou formado em Sistemas de informação💻 (Faculdade Rolim de Moura - FAROL (RO)).
