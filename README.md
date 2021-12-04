@@ -12,7 +12,7 @@ Plenary Front-End Developer at Eulabs.
 ## Formação🎓 Education
 Sou formado em Sistemas de informação💻 (Faculdade Rolim de Moura - FAROL (RO)).
 
-Bachelors degree in studying analysis and systems development💻 at (Faculdade Rolim de Moura - FAROL(RO)).
+Bachelors degree in systems development💻 at (Faculdade Rolim de Moura - FAROL(RO)).
 
 ## Estudando📘 Studying
 Estudando continuamente Node, Vue, JS, GO, PostgreSQL.
