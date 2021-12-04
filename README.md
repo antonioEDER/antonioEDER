@@ -114,7 +114,7 @@ Estudando continuamente Node, Vue, JS, GO, PostgreSQL.
 
   <a href="https://cordova.apache.org/" target="_blank">
     <img
-      src="https://cordova.apache.org/static/img/cordova-logo-newbrand.svg"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi4eJk7A4hWwFqiURMDy58RCY2TRVKhr5rAA&usqp=CAU"
       alt="vuejs"
       width="40"
     />
@@ -122,9 +122,10 @@ Estudando continuamente Node, Vue, JS, GO, PostgreSQL.
 
   <a href="https://go.dev/" target="_blank">
     <img
-      src="https://www.freecodecamp.org/news/content/images/2021/10/golang.png"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmDKt0Qi65ILAvNv9Pw6mOzOrH33w3Biz5g&usqp=CAU"
       alt="vuejs"
       width="40"
+      height="40"
     />
   </a>
 
