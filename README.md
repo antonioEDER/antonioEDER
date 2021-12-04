@@ -5,12 +5,12 @@ Eu me chamo Eder Antonio e aqui compartilho meus projetos em desenvolvimento.
 Hi! My name is Eder Antonio and here I share my projects in development.
 
 
-## Sou uma desenvolvedor🔮 I'm a developer
+## Sou um desenvolvedor🔮 I'm a developer
 Dev Pleno Front-End na Eulabs. <br>
 plenary Front-End Developer at Eulabs.
 
 ## Formação🎓 Education
-Sou formada em Sistemas de informação💻 (Faculdade Rolim de Moura - FAROL (RO)).
+Sou formado em Sistemas de informação💻 (Faculdade Rolim de Moura - FAROL (RO)).
 
 Bachelors degree in studying analysis and systems development💻 at (Faculdade Rolim de Moura - FAROL(RO)).
 
