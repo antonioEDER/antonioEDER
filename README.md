@@ -136,6 +136,7 @@ Estudando continuamente Node, Vue, JS, GO, PostgreSQL.
 - LinkedIn: https://www.linkedin.com/in/eder-antonio-3b7021122/<br>
 - Instagram: hhttps://www.instagram.com/eder_antoniio/<br>
 - Facebook: https://www.facebook.com/Ederantonio1993/<br>
+- DevFolio: https://antonioeder.github.io/<br>
 
 ## Data de atualização do README.md
 > 04/12/2021 ás 10:25
